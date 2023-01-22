@@ -1,4 +1,4 @@
-# Yandex.Practikum
+# Yandex Practikum
 ## QA Engineer
 
 ## Спринт 1 Проектирование тестов
